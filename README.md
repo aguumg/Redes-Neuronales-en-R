@@ -18,3 +18,5 @@ resultados.
 Este trabajo fue el proyecto final del curso Ciencia de Datos con R: Fundamentos Estadísticos, dictado el 1er trimestre del 2020 en la FCEN de la UBA.
 
 Este trabajo extiende el trabajo realizado por Joaquín Amat Rodrigo. Ver https://rpubs.com/Joaquin_AR/387758
+
+Biblio muy clara http://neuralnetworksanddeeplearning.com/chap1.html.
