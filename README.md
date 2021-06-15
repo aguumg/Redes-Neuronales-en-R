@@ -1,6 +1,6 @@
 # Redes Neuronales en R
 
-En este trabajo exhibimos, en dos ejemplos distintos, la manera de implementar un modelo predictivo
+En este trabajo junto a Jaqueline Girabel exhibimos, en dos ejemplos distintos, la manera de implementar un modelo predictivo
 entrenando redes neuronales.
 
 Nuestro primer ejemplo tiene como finalidad mostrar cómo funciona una red neuronal visualizando en los
